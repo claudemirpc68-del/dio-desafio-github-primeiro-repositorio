@@ -1,6 +1,6 @@
 # 🚀 Desafio de Projeto Git/GitHub da DIO
 
-Este repositório foi criado como parte do **Desafio de Projeto** da plataforma [Digital Innovation One (DIO)](https://web.dio.me). O objetivo é praticar os conceitos de **Git** e **GitHub**, criando e versionando um repositório do zero.
+Este repositório foi criado por Claudemir Pedroso Cubas como parte do **Desafio de Projeto** da plataforma [Digital Innovation One (DIO)](https://web.dio.me). O objetivo é praticar os conceitos de **Git** e **GitHub**, criando e versionando um repositório do zero.
 
 ---
 
